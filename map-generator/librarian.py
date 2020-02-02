@@ -193,4 +193,6 @@ hid_keycodes = {
     'rgui' : 32768,
     'br?' : 135,
     'br_?' : 135,
+    'menu' : 101,
+    'application' : 101,
 }
